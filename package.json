@@ -1,0 +1,15 @@
+{
+  "name": "react-codesigner",
+  "version": "0.1.0",
+  "description": "A visual editor for React code",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/djgrant/react-codesigner.git"
+  },
+  "author": "Daniel Grant",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/djgrant/react-codesigner/issues"
+  },
+  "homepage": "https://github.com/djgrant/react-design#readme"
+}
